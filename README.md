@@ -1,0 +1,2 @@
+# next_js_introduction_2022_12
+2022年12月にdockerを使わないNext.js環境構築手順をまとめるために作ったリポジトリです。
