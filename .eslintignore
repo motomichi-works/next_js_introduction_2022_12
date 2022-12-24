@@ -1,0 +1,7 @@
+next_js_introduction/build/
+next_js_introduction/public/
+next_js_introduction/**/coverage/
+next_js_introduction/**/node_modules/
+next_js_introduction/**/*.min.js
+next_js_introduction/*.config.js
+next_js_introduction/.*lintrc.js
